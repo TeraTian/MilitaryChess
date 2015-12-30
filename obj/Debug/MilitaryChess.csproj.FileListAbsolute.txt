@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GameCenter\MilitaryChess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GameCenter\MilitaryChess\bin\mysql.data.dll
+C:\Users\Administrator\Desktop\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+C:\Users\Administrator\Desktop\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+C:\Users\Administrator\Desktop\GameCenter\MilitaryChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+C:\Users\Administrator\Desktop\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb
+C:\Documents and Settings\Administrator\桌面\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+C:\Documents and Settings\Administrator\桌面\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+C:\Documents and Settings\Administrator\桌面\GameCenter\MilitaryChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+C:\Documents and Settings\Administrator\桌面\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb
+D:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+D:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+D:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\ResolveAssemblyReference.cache
+D:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+D:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb
+G:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+G:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+G:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\ResolveAssemblyReference.cache
+G:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+G:\我的课程\三期项目\GameCenter\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb
+C:\Code\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.dll
+C:\Code\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+C:\Code\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+C:\Code\GameCenter\MilitaryChess\obj\Debug\MilitaryChess.pdb

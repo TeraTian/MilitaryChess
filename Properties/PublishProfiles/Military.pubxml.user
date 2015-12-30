@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MilitaryChess.dll">
+      <publishTime>12/29/2015 17:28:03</publishTime>
+    </File>
+    <File Include="bin/mysql.data.dll">
+      <publishTime>04/02/2014 09:19:30</publishTime>
+    </File>
+    <File Include="GetAllPosition.ashx">
+      <publishTime>05/13/2014 22:17:48</publishTime>
+    </File>
+    <File Include="GetPlayer.ashx">
+      <publishTime>05/11/2014 22:43:00</publishTime>
+    </File>
+    <File Include="GetPlayerInfo.ashx">
+      <publishTime>05/11/2014 22:43:15</publishTime>
+    </File>
+    <File Include="GetReady.ashx">
+      <publishTime>05/12/2014 23:31:49</publishTime>
+    </File>
+    <File Include="jquery.js">
+      <publishTime>10/08/2014 11:21:17</publishTime>
+    </File>
+    <File Include="jquery1.8.js">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="MilitaryChess.aspx">
+      <publishTime>12/27/2015 20:24:22</publishTime>
+    </File>
+    <File Include="militarychess/buju.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessBoard.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanB.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanBl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanBr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanG.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanGl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanGr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanO.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanOl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanOr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanP.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanPl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/ChessmanPr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/dilei.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/dileil.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/dileir.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/gongbing.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/gongbingl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/gongbingr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junqi.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junqil.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junqir.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junzhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junzhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/junzhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lianzhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lianzhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lianzhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lvzhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lvzhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/lvzhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/paizhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/paizhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/paizhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/shizhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/shizhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/shizhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/siling.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/silingl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/silingr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/tuanzhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/tuanzhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/tuanzhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/yingzhang.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/yingzhangl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/yingzhangr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/zhadan.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/zhadanl.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="militarychess/zhadanr.png">
+      <publishTime>05/11/2014 21:18:07</publishTime>
+    </File>
+    <File Include="playerimg/player1.jpg">
+      <publishTime>05/11/2014 21:28:54</publishTime>
+    </File>
+    <File Include="playerimg/player2.jpg">
+      <publishTime>05/11/2014 21:29:09</publishTime>
+    </File>
+    <File Include="playerimg/player3.jpg">
+      <publishTime>05/11/2014 21:29:20</publishTime>
+    </File>
+    <File Include="playerimg/player4.jpg">
+      <publishTime>05/11/2014 21:29:50</publishTime>
+    </File>
+    <File Include="PositionAlready.ashx">
+      <publishTime>05/13/2014 21:05:50</publishTime>
+    </File>
+    <File Include="Quit.ashx">
+      <publishTime>05/12/2014 23:34:56</publishTime>
+    </File>
+    <File Include="ReSetAll.ashx">
+      <publishTime>05/15/2014 14:12:49</publishTime>
+    </File>
+    <File Include="SocketTest.aspx">
+      <publishTime>12/29/2015 14:27:32</publishTime>
+    </File>
+    <File Include="UpdateNewPosition.ashx">
+      <publishTime>05/17/2014 11:23:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/29/2015 17:28:03</publishTime>
+    </File>
+    <File Include="WebSocketChess.aspx">
+      <publishTime>12/29/2015 17:27:55</publishTime>
+    </File>
+    <File Include="WebSocketServer.ashx">
+      <publishTime>12/27/2015 20:52:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

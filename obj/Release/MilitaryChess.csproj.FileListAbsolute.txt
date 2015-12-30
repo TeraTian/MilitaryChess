@@ -1,0 +1,5 @@
+C:\Code\GameCenter\MilitaryChess\bin\MilitaryChess.dll
+C:\Code\GameCenter\MilitaryChess\bin\MilitaryChess.pdb
+C:\Code\GameCenter\MilitaryChess\obj\Release\MilitaryChess.dll
+C:\Code\GameCenter\MilitaryChess\obj\Release\MilitaryChess.pdb
+C:\Code\GameCenter\MilitaryChess\obj\Release\MilitaryChess.csprojResolveAssemblyReference.cache
